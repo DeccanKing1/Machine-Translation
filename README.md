@@ -24,3 +24,7 @@ Submission
 # Using nbconvert from the command line
 
 $ pip install nbconvert $ nbconvert machine_translation.ipynb
+
+
+You can find the post abou this project on the link below:
+https://medium.com/@anuptukarampatil/machine-translation-english-to-french-translation-using-recurrent-neural-networks-90f8b9e1635e
