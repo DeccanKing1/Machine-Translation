@@ -1,5 +1,5 @@
 # Machine-Translation
-English to French Translation using Recurrent Neural Networks. 
+English to French Translation using Recurrent Neural Networks as a part of my Nano Degree Prgram at Udacity.
 
 ## Introduction
 In this notebook, a deep neural network that functions as part of an end-to-end machine translation pipeline is built. Completed pipeline will accept English text as input and return the French translation.
